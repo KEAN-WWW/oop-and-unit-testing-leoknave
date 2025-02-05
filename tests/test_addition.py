@@ -2,7 +2,7 @@
 Unit tests for the add function in the Calculator class.
 """
 
-from app.calculator import Calculator  # Importing the Calculator class
+from app.calculator import Calculator  
 
 def test_add():
     """Tests the addition method of Calculator."""
